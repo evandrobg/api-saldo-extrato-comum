@@ -63,5 +63,12 @@
     "nomeBanco": "ITAU UNIBANCO S/A",
     "cidade": "SAO PAULO",
     "nomePais": "BRASIL"
+  },
+  "moeda": {
+    "codMoedaBacen": 220,
+    "codMoedaIcor": 8,
+    "codMoedaIso": 840,
+    "nomeMoeda": "DOLAR DOS EUA",
+    "siglaMoedaIso": "USD"
   }
 }
